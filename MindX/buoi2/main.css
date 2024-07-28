@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+}
+.heading1{
+      background-color: pink;
+}
+.list li{
+     display: inline-block; 
+     list-style: none;
+     padding: 0px 12px;
+}
+.logo{
+    position: relative;
+    left: 46px;
+}
+.heading0{
+    /* background-image: url(' ../pictures/BG.png'); */
+    /* max-width: 1280px;
+    margin: 0 auto; */
+}
+.BG{
+    background-image: url('../pictures/BG.png');
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -16px;
+}
+.group{
+    background-color: pink;
+    
+}
+.fontExplore{
+    font-family: cursive;
+    color: red;
+    text-align: center;
+}
+.camping{
+    padding-left: 47%;
+}
+.allpictures{
+    display: flex;
+}
+.pict1{
+    position: relative;
+    left: 5%;
+}
+.pict2{
+    position: relative;
+    left: 40%;
+}
+
+.pic {
+    padding: 1%;
+    background: white;
+    margin: 1%;
+    flex: 1 1 0;
+    width: 20%;
+    position: relative;
+}
+
+.pic img {
+    width: 100%;
+}
+
+.pic img:hover {
+    cursor: pointer;
+}
+
+
+.pic .icon {
+    width: 20px;
+    position: absolute;
+    right: 10%;
+    top: 10%;
+}
+
+.group-2 {
+    display: flex;
+    width: 100%;
+}
+
+.group-2-image {
+    flex: 1 1 0;
+    background: #FFA07A;
+    position: relative;
+}
+
+.group-2-content {
+    flex: 1 1 0;
+    background: #FFA07A;
+}
+
+.group-2-image-1 {
+    width: 100%;
+}
+
+.group-2-image-2 {
+    position: absolute;
+    height: 100%;
+    left: 15%;
+}
+.btn{
+    position: relative;
+    left: 36%;
+    color: blue;
+    background-color: white;
+    border-radius: 12px;
+}
+.TRICKER{
+    text-align: center;
+}
+.btn-0{
+    position: relative;
+    left: 46%;
+    font-size: 23px;
+    border-radius: 12px;
+    background-color: white;
+    color: blue;
+}
+.list2{
+    display: flex;
+    list-style: none;
+    padding-left: 0px;
+
+}
+.content5{
+    display: flex;
+}
+.group-3-content {
+    flex: 1 1 0;
+    background: #FFA07A;
+    display: flex;
+    margin-top: 5%;
+    border-radius: 20px;    
+}
+.content-Last{
+    display: flex;
+    padding-right: 27%;
+    list-style: none;
+}
+.content-Last-2{
+    padding-left: 47%;
+    margin-top: 4%;
+    list-style: none;
+}
+.content-Last-3{
+    padding-left: 57%;
+    margin-top: -1%;
+    list-style: none;
+}

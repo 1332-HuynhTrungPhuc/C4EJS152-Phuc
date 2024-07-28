@@ -1,0 +1,137 @@
+.list li{
+    display: inline-block; 
+    list-style: none;
+    padding: 0px 12px;
+}
+.list a{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color:white;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 5px;
+}
+.logo{
+    padding-left: 2%;
+}
+.BG{
+    background-image: url('../buoi3/picture2/2.jpg');
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 10px;
+}
+.Welcome-to-out-campus{
+    padding-left: 14%;
+    padding-right: 20%;
+    margin-top: 5%;
+}
+.G1Pic{
+    padding-top: 10%;
+}
+.content-Campus{
+    display: flex;
+}
+.btn-readmore{
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 3%;
+}
+.information{
+    background-color: gainsboro;
+    display: flex;
+    padding-right: 32%;
+}
+.p60{
+    display: flex;
+    padding-right: 95%;
+}
+.content-p60{
+    padding-left: 23%;
+    font-size: 45px;
+}
+.content-professional{
+    padding-left: 1%;
+    font-size: 23px;
+}
+.content-all{
+    display: flex;
+    padding-right: 40%;
+}
+.allpictures{
+    display: flex;
+}
+.pict1{
+    position: relative;
+    left: 5%;
+}
+.pict2{
+    position: relative;
+    left: 40%;
+}
+
+.pic {
+    padding: 1%;
+    background: white;
+    margin: 1%;
+    flex: 1 1 0;
+    width: 20%;
+    position: relative;
+}
+.icon{
+    position: relative;
+    right: 50%;
+    bottom: 30%;
+}
+.Happy{
+    position: relative;
+    left: 26%;
+    bottom: 36%;
+    color: white;
+}
+.btn-0{
+    margin-left: 46%;
+    border-radius: 7px;
+    padding: 13px;
+    background-color: pink;
+    color: green;
+}
+.last-content{
+    background-color: grey;
+}
+.last-content1{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 59%;
+}
+
+.imgDS1{
+    width: 53%;
+    position: relative;
+    left: 17%;
+}
+.display-flex1{
+    display: flex;
+}
+.last-content3{
+    position: relative;
+    left: 40%;
+    margin-top: -919px;
+}
+.background-blue{
+    background-color: #00008B;
+    color: white;
+    display: flex;
+}
+.Footer1{
+    position: relative;
+    left: 8%;
+}
+.Footer2{
+    padding-left: 26%;
+}
+.Footer3{
+    padding-left: 21%;
+}
